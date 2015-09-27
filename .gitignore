@@ -1,0 +1,9 @@
+.idea/*
+app/var/logs/*
+app/var/cache/*
+app/var/volt/*
+/app/var/config/config.ini
+/.idea
+/app/var/metadata
+/app/var/volt
+/app/var/logs
